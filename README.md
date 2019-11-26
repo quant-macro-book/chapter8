@@ -2,7 +2,7 @@
 
 #### 連載第8回(2・3月号)
 
-* **2 (クルッセル=スミスモデル)**の結果を再現するファイル -> Fortran_KS及びMATLAB_KSフォルダ内のファイル一式
+* **2 (クルッセル=スミスモデル)** の結果を再現するファイル -> Fortran_KS及びMATLAB_KSフォルダ内のファイル一式
   + 本文中ではFortranコードを使って計算しています。
   + MATLABコードはFortranコードの翻訳です。計算時間がかかる(環境にもよりますがおそらく10時間以上)ので注意してください。
 * **3.2 (HANKモデル)定常状態の計算**の結果を再現するファイル -> main_ti_cheb.m, nti_cheb.m, EulerEq_cheb.m, calcerr.m, CRRA.m, mu_CRRA.m, polygrid.m, polybas.m
